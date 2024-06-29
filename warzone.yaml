@@ -1,0 +1,6 @@
+train: ../warzone/train/images
+val: ../warzone/valid/images
+test: ../warzone/test/images
+
+nc: 2
+names: ['enemy', 'head']

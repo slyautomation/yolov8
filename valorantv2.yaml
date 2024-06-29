@@ -1,0 +1,13 @@
+train: ../valorantv2/train/images
+val: ../valorantv2/valid/images
+test: ../valorantv2/test/images
+
+nc: 4
+names: ['dropped spike', 'enemy', 'planted spike', 'teammate']
+
+roboflow:
+  workspace: daniels-magonis-0pjzx
+  project: valorant-9ufcp
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/daniels-magonis-0pjzx/valorant-9ufcp/dataset/3
