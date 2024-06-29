@@ -2,6 +2,9 @@
 
 The tutorial covers the creation of an aimbot using YOLOv8, the latest version of the YOLO object detection algorithm known for its speed and accuracy. This guide walks through the necessary steps, including data collection, annotation, training, and testing, to develop a custom object detection model for games like Fortnite, PUBG, and Apex Legends.
 
+https://github.com/slyautomation/yolov8/assets/81003470/8c6c2b8d-88c5-4778-bcbb-46d9b4166d6b
+
+
 Be sure to check out the full step by step guide here! https://www.slyautomation.com/blog/yolov8-aimbot-with-ultralytics-and-roboflow/
 
 
