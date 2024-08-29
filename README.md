@@ -7,6 +7,8 @@ https://github.com/slyautomation/yolov8/assets/81003470/8c6c2b8d-88c5-4778-bcbb-
 
 Be sure to check out the full step by step guide here! https://www.slyautomation.com/blog/yolov8-aimbot-with-ultralytics-and-roboflow/
 
+also for coding mouse clicks and movement check this guide: 
+
 
 ## Key Steps:
 
